@@ -24,7 +24,7 @@ deploy:
     on:
         branch: hugo
     local_dir: public
-    email: lijwxg@hotmail.com
-    name: Travis CI
+    email: lijwxg@163.com
+    name: blog
     target_branch: master
 
