@@ -24,6 +24,7 @@ deploy:
     on:
         branch: hugo
     local_dir: public
+    fqdn: promise.wiki
     email: lijwxg@163.com
     name: blog
     target_branch: master
