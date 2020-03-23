@@ -115,6 +115,7 @@ contentCopyright = "CC BY-NC-ND 4.0"
     enable = true
     #jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
 	jquery = '<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>'
+	slideout = '<script src="https://cdn.bootcss.com/slideout/1.0.1/slideout.min.js"></script>'
 
   # Display a message at the beginning of an article to warn the readers that it's content may be outdated.
   # 在文章开头显示提示信息，提醒读者文章内容可能过时。
