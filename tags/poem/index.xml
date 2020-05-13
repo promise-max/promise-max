@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poem on Note It</title>
+    <link>/tags/poem/</link>
+    <description>Recent content in poem on Note It</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>行路</title>
+      <link>/post/choice/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/choice/</guid>
+      <description>还记得初中时候学过普希金的一首诗:《假如生活欺骗了你》. 那时的你不知道什么叫假如, 因为真相只有一个; 也不懂生活, 就在不停的读书; 也想不明白怎</description>
+    </item>
+    
+    <item>
+      <title>Beginning</title>
+      <link>/post/start/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/start/</guid>
+      <description>&lt;h1 id=&#34;春暖花开&#34;&gt;春暖花开&lt;/h1&gt;
+&lt;p&gt;春分已过, 夏日即至.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

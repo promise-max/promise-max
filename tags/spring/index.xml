@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spring on Note It</title>
+    <link>/tags/spring/</link>
+    <description>Recent content in spring on Note It</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginning</title>
+      <link>/post/start/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/start/</guid>
+      <description>&lt;h1 id=&#34;春暖花开&#34;&gt;春暖花开&lt;/h1&gt;
+&lt;p&gt;春分已过, 夏日即至.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

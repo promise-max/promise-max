@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>choice on Note It</title>
+    <link>/tags/choice/</link>
+    <description>Recent content in choice on Note It</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/choice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>行路</title>
+      <link>/post/choice/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/choice/</guid>
+      <description>还记得初中时候学过普希金的一首诗:《假如生活欺骗了你》. 那时的你不知道什么叫假如, 因为真相只有一个; 也不懂生活, 就在不停的读书; 也想不明白怎</description>
+    </item>
+    
+  </channel>
+</rss>
